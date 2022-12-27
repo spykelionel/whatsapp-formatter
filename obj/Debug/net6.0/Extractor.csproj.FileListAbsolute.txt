@@ -1,0 +1,15 @@
+C:\Projects\Extractor\bin\Debug\net6.0\Extractor.exe
+C:\Projects\Extractor\bin\Debug\net6.0\Extractor.deps.json
+C:\Projects\Extractor\bin\Debug\net6.0\Extractor.runtimeconfig.json
+C:\Projects\Extractor\bin\Debug\net6.0\Extractor.dll
+C:\Projects\Extractor\bin\Debug\net6.0\Extractor.pdb
+C:\Projects\Extractor\obj\Debug\net6.0\Extractor.csproj.AssemblyReference.cache
+C:\Projects\Extractor\obj\Debug\net6.0\Extractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Extractor\obj\Debug\net6.0\Extractor.AssemblyInfoInputs.cache
+C:\Projects\Extractor\obj\Debug\net6.0\Extractor.AssemblyInfo.cs
+C:\Projects\Extractor\obj\Debug\net6.0\Extractor.csproj.CoreCompileInputs.cache
+C:\Projects\Extractor\obj\Debug\net6.0\Extractor.dll
+C:\Projects\Extractor\obj\Debug\net6.0\refint\Extractor.dll
+C:\Projects\Extractor\obj\Debug\net6.0\Extractor.pdb
+C:\Projects\Extractor\obj\Debug\net6.0\Extractor.genruntimeconfig.cache
+C:\Projects\Extractor\obj\Debug\net6.0\ref\Extractor.dll
